@@ -4,3 +4,5 @@ Edit by webbrowser.
 Adding two new lines.
 W7main: dopisanie loopa
 123
+to bêdzie kontunuacja nowego brancha
+kontynuacja brancha
