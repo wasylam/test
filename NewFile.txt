@@ -2,3 +2,4 @@ Agenda
 Dopisanie drugiej linii via Windows 7 virtual
 Edit by webbrowser. 
 Adding two new lines.
+W7main: dopisanie loopa
