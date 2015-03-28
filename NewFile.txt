@@ -1,2 +1,7 @@
 START
+UP - pobrał tylko bezmyślnie zawartość z serwera (bo w międzyczasie nie zrobiłem zmian na localu) zobaczymy jak teraz się zachowa gdy 
+dopisałem nową linię na localu
 Develope 1
+Teraz na localu jest zmergowana wersja. a na servie ciągle jeszcze stara wersja bez komentarza.
+- kolejne sprawdzenie UPEM: Aha i ponieważ nie było zmian na serwie to przy UP'ie nie wyswietla zadnych konfliktow.
+Teraz dopiero przy commitciepowinien wywalic komunikat o rozbieznosci wersji
