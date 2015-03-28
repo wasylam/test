@@ -13,3 +13,5 @@ W międzyczasie Developer dopisał jeszcze jedną linię kodu
 A ja przecież dopisałem linię tekstu na UBUNTU o 10:02
 Szybka zmiana 10:06 na UBUNTU
 ZMIANA NA SERWERZEE
+NA UBUNTU CZEKA WERSJA JEDNOLINIJKOWA PODCZAS GDY NA SERVIE JEST OLD VER.
+OSTATNIA ZMIANA ON SERV.
