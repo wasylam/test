@@ -9,3 +9,4 @@ kontynuacja brancha
 28.03.2015 poprawka do NewFile.txt
 Poprawka on server 7:27
 Druga poprawka na serwerze 7:30
+W międzyczasie Developer dopisał jeszcze jedną linię kodu
