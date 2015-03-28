@@ -6,4 +6,6 @@ Teraz na localu jest zmergowana wersja. a na servie ciągle jeszcze stara wersja
 - kolejne sprawdzenie UPEM: Aha i ponieważ nie było zmian na serwie to przy UP'ie nie wyswietla zadnych konfliktow.
 Teraz dopiero przy commitciepowinien wywalic komunikat o rozbieznosci wersji
 
+zmiana po stronie locala
+
 OK - zmiana po stronie serv
