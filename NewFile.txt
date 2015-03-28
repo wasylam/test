@@ -11,3 +11,4 @@ Poprawka on server 7:27
 Druga poprawka na serwerze 7:30
 W międzyczasie Developer dopisał jeszcze jedną linię kodu
 A ja przecież dopisałem linię tekstu na UBUNTU o 10:02
+Ok dopisanie tekstu na serwerze.
