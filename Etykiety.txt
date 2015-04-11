@@ -1,1 +1,36 @@
-Zaczynam nowy plik
+Legenda:
+
+index.php?cat=2&articles=17 ""Opis niedostepny""
+index.php?cat=2&articles=16 ""Opis niedostepny""
+index.php?cat=2&articles=15 ""Opis niedostepny""
+index.php?cat=2&articles=14 ""Opis niedostepny""
+index.php?cat=2&articles=13 ""Opis niedostepny""
+index.php?cat=2&articles=12 ""Opis niedostepny""
+index.php?cat=2&articles=11 Hartman rany trudno gojące
+index.php?cat=2&articles=10 video BBraun
+index.php?cat=2&articles=9 = siatki przepuklinowe
+index.php?cat=2&articles=8 - termometry, ciśnieniomierze
+index.php?cat=2&articles=7 - Dostawa
+index.php?cat=2&articles=6 - Kontakt     to samo co  ""index.php?cat=6""
+index.php?cat=2&articles=5 - Video BBraun
+index.php?cat=2&articles=4 - Nasze promocje zimowe
+index.php?cat=2&articles=3 - O firmie
+index.php?cat=2&articles=2 - O naszych produktach w mediach
+index.php?cat=2&articles=1 - strona główna
+
+   1:   'body.php';
+   2:   'body_artykuly.php';
+   3:   'body_oferta.php';		  - OFERTA - wszystko checkbox
+   4:   'body_nowosci.php';       - O naszych produktach w prasie, radiu i telewizji: / ŚRODKI DO DEZYNFEKCJI FIRMY BODE
+   5:   'body_katalog.php';       - Katalog MEMO z zalecanymi ćwiczeniami dla dzieci
+   6:   'body_kontakt.php'; 
+   7:   'body_memo.php';
+   8:   'body_opatrunki_oblozenia.php';
+   9:   'body_mapka.php'; 
+   10:  'body_video.php';  
+   11:  'body_test.php';
+   12:  'body_video_all.php';     - "FAILED"
+   14:  'body_video_monomax.php'; - SAMO VIDEO MONOMAX
+   15:  'body_katalog2.php';
+   16:  'body_katalog3.php';
+   17:  'body_dezynfekcja.php';
