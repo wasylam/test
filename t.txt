@@ -1,0 +1,2 @@
+1. Instalacja G++
+2. Instalacja Geany
