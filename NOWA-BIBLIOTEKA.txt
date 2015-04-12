@@ -1,4 +1,0 @@
-napis dodany pod UBUNTU.14
-dopisana nowa linia dla stworzenia pierwszej kolizji 
-równoległa praca z plikiem na serwerze 11:26
-kolejna praca z pilikiem na serwerze jednak tym razem na localu nie będzie zrobiony chce dopisac ale jest to bardzo trudne i przenosi UP na koniec
