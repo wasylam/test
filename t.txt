@@ -1,2 +1,3 @@
 1. Instalacja G++
 2. Instalacja Geany
+Po wgraniu na serwer modyfikacja na serwerze.
